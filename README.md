@@ -1,2 +1,1 @@
-My first readme
-my first commit on github.com
+My up to date readme
